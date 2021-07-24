@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Qahiri&display=swap');
+    body{
+      background:turquoise;
+      font-family: Qahiri;
+      text-align:center;
+      color:black;
+    }
+    button{
+      background: black;
+      height: 50px;
+      width:260px;
+      border: none;
+      border-radius: 30px;
+      color:turquoise;
+      font-family: Qahiri;
+      font-size: 20px;
+      outline: none;
+    }
+    img{
+        width:90px;
+        height:80px;
+    }
+    canvas{
+        border: black;
+        border-width: 3px;
+        outline:none;
+        box-shadow: 0px 0px 100px #aa69f5 inset;
+        border-radius: 30px;
+    }
